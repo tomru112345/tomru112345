@@ -8,8 +8,12 @@
 ## Github Status
 
 <p align="left">
+  <a href="https://github-readme-stats.vercel.app/api?username=tomru112345">
   <img src="https://github-readme-stats.vercel.app/api?username=tomru112345" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tomru112345&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomru112345&layout=compact" />
+  </a>
 </p>
 
 ## AtCoder Rating
