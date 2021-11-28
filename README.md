@@ -35,6 +35,6 @@
 
 ## 参考
 
-* [ryusuke920](https://github.com/ryusuke920)
+* [ryusuke920 さん](https://github.com/ryusuke920)
 * [GitHub Readme Stats を利用してGitHubプロフィールをカッコよくする](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
 * [アイコン一覧](https://githubmemory.com/repo/lisabecker/markdown-badges)
