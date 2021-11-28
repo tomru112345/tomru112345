@@ -8,10 +8,13 @@
 ## Github Status
 
 <p align="left">
-  <a href="https://github-readme-stats.vercel.app/api?username=tomru112345">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomru112345" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tomru112345&layout=compact">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomru112345&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomru112345" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomru112345&layout=compact" />
   </a>
 </p>
